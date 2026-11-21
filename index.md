@@ -11,7 +11,7 @@
 게임은 회원 가입이 없고, 이름·이메일·전화번호·위치 같은 개인정보를 직접 모으지 않습니다. 게임 진행 기록(골드, 강화, 기록, 설정)은 기기 안에만 저장되며 개발자의 서버로 보내지 않습니다. 앱을 지우면 이 기록도 함께 지워집니다.
 
 ### 2. 광고
-게임은 보상형 광고를 보여 주기 위해 Google AdMob을 사용합니다. 광고를 보여 주는 과정에서 Google과 그 협력사가 다음 정보를 모으고 처리할 수 있습니다.
+게임은 광고(보상형 광고와 판이 끝났을 때 가끔 나오는 전면 광고)를 보여 주기 위해 Google AdMob을 사용합니다. 광고를 보여 주는 과정에서 Google과 그 협력사가 다음 정보를 모으고 처리할 수 있습니다.
 - 광고 식별자(안드로이드의 광고 ID, iOS의 IDFA)
 - 기기 정보(기종, 운영체제 버전, 언어, 화면 크기 등)
 - IP 주소와 그로부터 추정한 대략적인 지역
@@ -44,7 +44,7 @@ soonil6533@naver.com
 The game has no account sign-up and does not directly collect personal information such as your name, email, phone number, or location. Game progress (gold, upgrades, records, settings) is stored only on your device and is not sent to the developer's servers. Deleting the app deletes this data.
 
 ### 2. Advertising
-The game uses Google AdMob to show rewarded ads. While serving ads, Google and its partners may collect and process:
+The game uses Google AdMob to show ads (rewarded ads, and an interstitial ad that may appear after some runs). While serving ads, Google and its partners may collect and process:
 - Advertising identifiers (Android advertising ID, iOS IDFA)
 - Device information (model, OS version, language, screen size, and similar)
 - IP address and the approximate region derived from it
